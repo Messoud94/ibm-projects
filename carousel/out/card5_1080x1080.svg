@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+    <rect width="1080" height="1080" fill="#0A3A2B"/>
+    
+    
+    <g transform="translate(84 88) scale(0.9)">
+    <path d="M 4 4 H 88 V 62 C 88 88 68 100 46 106 C 24 100 4 88 4 62 Z"
+      fill="none" stroke="#D2A63C" stroke-width="4"/>
+    <path d="M 13 13 H 79 V 61 C 79 82 63 92 46 97 C 29 92 13 82 13 61 Z"
+      fill="none" stroke="#D2A63C" stroke-width="2" opacity="0.75"/>
+    <path d="M 26 34 H 66" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 46 30 V 82" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 62 42 C 62 33 52 31 45 35 C 37 39 37 50 46 54 C 56 58 57 69 48 73
+             C 41 76 32 74 31 66"
+      fill="none" stroke="#D2A63C" stroke-width="6" stroke-linecap="round"/></g>
+    <text x="190" y="152" font-family="Playfair Display" font-size="34" font-weight="400"
+      letter-spacing="6" fill="#F4EFE6">THE STUDY LAB</text>
+    <text x="996" y="104" font-family="Jost" font-size="22" font-weight="400"
+    letter-spacing="5" fill="#9FB0A6" text-anchor="end">05 / 06</text>
+    <text x="84" y="238" font-family="Jost" font-size="22" font-weight="500"
+    letter-spacing="4.5" fill="#D2A63C" text-anchor="start">BY MAY</text>
+    <text x="84" y="310" font-family="Playfair Display" font-size="58"
+        font-weight="400" fill="#F4EFE6">One is revising. The</text>
+<text x="84" y="378" font-family="Playfair Display" font-size="58"
+        font-weight="400" fill="#F4EFE6">other is still <tspan font-style="italic" fill="#D2A63C">learning</tspan>.</text>
+    <text x="84" y="424" font-family="Jost" font-size="27"
+          font-weight="300" fill="#DCE4DC">Same paper, same morning. One of them has met</text>
+<text x="84" y="465" font-family="Jost" font-size="27"
+          font-weight="300" fill="#DCE4DC">every question type before.</text>
+
+    <rect x="84" y="500" width="912" height="318" rx="28" fill="rgba(245, 240, 232, 0.045)"/>
+    <line x1="124" y1="772" x2="956" y2="772" stroke="rgba(245, 240, 232, 0.18)"
+      stroke-width="3" stroke-linecap="round"
+      />
+
+    <g transform="translate(312 766) scale(0.66 0.66)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(0)">
+    
+    <path d="M -20 -118 L -22 -60 L -23 -6" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -50 -164 L -84 -166" fill="none" stroke="#B2872A" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-84" cy="-166" r="11" fill="#F2C69C"/>
+    <path d="M 20 -118 L 30 -62 L 38 -6" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="45" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#D6A73C"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#B2872A" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#F2C69C"/>
+    <path d="M 40 -196 L 50 -164 L 84 -166" fill="none" stroke="#D6A73C" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="84" cy="-166" r="11" fill="#F2C69C"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-306" r="21" fill="#2B211B"/><circle cx="0" cy="-266" r="48.5" fill="#2B211B"/>
+      <circle cx="0" cy="-262" r="46" fill="#F2C69C"/>
+      <path d="M -47 -268 A 47 47 0 0 1 46 -272 C 30 -296 -14 -292 -47 -268 Z" fill="#2B211B"/>
+              <path d="M -46 -272 C -50 -246 -46 -230 -40 -222 C -52 -228 -58 -250 -56 -272 Z" fill="#2B211B"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -8 -246 H 8" fill="none" stroke="#22312C"
+        stroke-width="3.2" stroke-linecap="round"/><path d="M -24 -284 L -8 -280 M 24 -284 L 8 -280" stroke="#22312C"
+        stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <g transform="translate(0 -168) rotate(-3)">
+      <rect x="-68" y="-46" width="136" height="92" rx="8" fill="#EFE9DC"/>
+      <path d="M -54 -23 l 6 7 l 11 -14" fill="none" stroke="#B08A22"
+              stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M -28 -20 H 56" stroke="#BDB3A0" stroke-width="4"
+              stroke-linecap="round"/><path d="M -54 -1 l 6 7 l 11 -14" fill="none" stroke="#B08A22"
+              stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M -28 2 H 56" stroke="#BDB3A0" stroke-width="4"
+              stroke-linecap="round"/><path d="M -54 21 l 6 7 l 11 -14" fill="none" stroke="#B08A22"
+              stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M -28 24 H 56" stroke="#BDB3A0" stroke-width="4"
+              stroke-linecap="round"/>
+    </g></g>
+    </g>
+    <g transform="translate(612 584)">
+      <circle r="26" fill="#93A79B"/>
+      <circle r="19" fill="rgba(255,255,255,0.55)"/>
+      <path d="M 0 0 V -11 M 0 0 L 13 6" stroke="#0A3A2B" stroke-width="4"
+        stroke-linecap="round"/>
+    </g>
+    <text x="858" y="616" font-family="Playfair Display" font-size="40"
+            font-weight="700" fill="#93A79B" opacity="0.95"
+            transform="rotate(-12 858 616)">?</text><text x="902" y="582" font-family="Playfair Display" font-size="30"
+            font-weight="700" fill="#93A79B" opacity="0.7"
+            transform="rotate(10 902 582)">?</text><text x="936" y="612" font-family="Playfair Display" font-size="22"
+            font-weight="700" fill="#93A79B" opacity="0.5"
+            transform="rotate(-6 936 612)">?</text>
+    <g transform="translate(762 766) scale(0.66 0.66)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(0)">
+    
+    <path d="M -20 -118 L -22 -60 L -23 -6" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -50 -164 L -84 -166" fill="none" stroke="#7A8E82" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-84" cy="-166" r="11" fill="#D9A273"/>
+    <path d="M 20 -118 L 30 -62 L 38 -6" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="45" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#93A79B"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#7A8E82" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#D9A273"/>
+    <path d="M 40 -196 L 50 -164 L 84 -166" fill="none" stroke="#93A79B" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="84" cy="-166" r="11" fill="#D9A273"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-266" r="48.5" fill="#1F1915"/>
+      <circle cx="0" cy="-262" r="46" fill="#D9A273"/>
+      <path d="M -47 -266 A 47 47 0 0 1 47 -270 C 30 -292 -8 -286 -26 -272 C -34 -266 -42 -264 -47 -266 Z"
+              fill="#1F1915"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -9 -243 Q 0 -248 9 -243" fill="none" stroke="#22312C"
+        stroke-width="3.2" stroke-linecap="round"/><path d="M -22 -276 L -8 -276 M 22 -276 L 8 -276" stroke="#22312C"
+        stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <g transform="translate(0 -140)">
+          <rect x="-64" y="-19" width="128" height="19" rx="5" fill="#E8E1D2"/>
+          <rect x="-64" y="-19" width="128" height="5" rx="2.5" fill="rgba(255,255,255,0.25)"/>
+        </g><g transform="translate(0 -163)">
+          <rect x="-60" y="-19" width="120" height="19" rx="5" fill="#CFC6B2"/>
+          <rect x="-60" y="-19" width="120" height="5" rx="2.5" fill="rgba(255,255,255,0.25)"/>
+        </g><g transform="translate(0 -186)">
+          <rect x="-56" y="-19" width="112" height="19" rx="5" fill="#E8E1D2"/>
+          <rect x="-56" y="-19" width="112" height="5" rx="2.5" fill="rgba(255,255,255,0.25)"/>
+        </g></g>
+    </g>
+    <text x="312" y="802" font-family="Jost" font-size="18" font-weight="500"
+    letter-spacing="2.6" fill="#D2A63C" text-anchor="middle">REVISING</text>
+    <text x="762" y="802" font-family="Jost" font-size="18" font-weight="500"
+    letter-spacing="2.6" fill="#9FB0A6" text-anchor="middle">STILL LEARNING IT</text>
+
+    <line x1="84" y1="852" x2="996" y2="852" stroke="#D2A63C"
+    stroke-width="2" opacity="0.55"/><circle cx="156" cy="852" r="12" fill="#0A3A2B"
+      stroke="#D2A63C" stroke-width="2.5"/>
+<circle cx="430" cy="852" r="12" fill="#0A3A2B"
+      stroke="#D2A63C" stroke-width="2.5"/>
+<circle cx="704" cy="852" r="12" fill="#0A3A2B"
+      stroke="#D2A63C" stroke-width="2.5"/>
+<circle cx="960" cy="852" r="15" fill="#D2A63C"
+      stroke="#D2A63C" stroke-width="0"/><text x="84" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">SEP</text>
+<text x="353" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">NOV</text>
+<text x="630" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">SPRING</text>
+<text x="996" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="end">MAY</text>
+    
+    <line x1="84" y1="944" x2="996" y2="944" stroke="rgba(159, 176, 166, 0.28)" stroke-width="1.5"/>
+    <text x="84" y="998" font-family="Jost" font-size="24" font-weight="300"
+    letter-spacing="0.4" fill="#9FB0A6" text-anchor="start">The Summer series — the sitting that counts</text>
+    <text x="996" y="998" font-family="Jost" font-size="24" font-weight="500"
+    letter-spacing="2.4" fill="#F4EFE6" text-anchor="end">THESTUDYLAB.AE</text>
+  </svg>

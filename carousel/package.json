@@ -1,0 +1,14 @@
+{
+  "name": "study-lab-carousel",
+  "version": "1.0.0",
+  "description": "The Study Lab — 6-slide Instagram carousel, illustrated with a two-student cartoon cast",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fonts": "node fetch-fonts.mjs",
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.62.1"
+  }
+}

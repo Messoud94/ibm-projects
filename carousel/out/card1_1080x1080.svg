@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+    <rect width="1080" height="1080" fill="#0A3A2B"/>
+    
+    
+    <g transform="translate(84 88) scale(0.9)">
+    <path d="M 4 4 H 88 V 62 C 88 88 68 100 46 106 C 24 100 4 88 4 62 Z"
+      fill="none" stroke="#D2A63C" stroke-width="4"/>
+    <path d="M 13 13 H 79 V 61 C 79 82 63 92 46 97 C 29 92 13 82 13 61 Z"
+      fill="none" stroke="#D2A63C" stroke-width="2" opacity="0.75"/>
+    <path d="M 26 34 H 66" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 46 30 V 82" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 62 42 C 62 33 52 31 45 35 C 37 39 37 50 46 54 C 56 58 57 69 48 73
+             C 41 76 32 74 31 66"
+      fill="none" stroke="#D2A63C" stroke-width="6" stroke-linecap="round"/></g>
+    <text x="190" y="152" font-family="Playfair Display" font-size="34" font-weight="400"
+      letter-spacing="6" fill="#F4EFE6">THE STUDY LAB</text>
+    <text x="996" y="104" font-family="Jost" font-size="22" font-weight="400"
+    letter-spacing="5" fill="#9FB0A6" text-anchor="end">01 / 06</text>
+    <text x="84" y="238" font-family="Jost" font-size="22" font-weight="500"
+    letter-spacing="4.5" fill="#D2A63C" text-anchor="start">THE SAME YEAR, TWICE</text>
+    <text x="84" y="316" font-family="Playfair Display" font-size="62"
+        font-weight="400" fill="#F4EFE6">Two students. The</text>
+<text x="84" y="390" font-family="Playfair Display" font-size="62"
+        font-weight="400" fill="#F4EFE6">same <tspan font-style="italic" fill="#D2A63C">ability</tspan>.</text>
+    <text x="84" y="448" font-family="Jost" font-size="27"
+          font-weight="300" fill="#DCE4DC">One of them started in September.</text>
+
+    <rect x="84" y="500" width="912" height="392" rx="28" fill="rgba(245, 240, 232, 0.045)"/>
+    <line x1="144" y1="834" x2="936" y2="834" stroke="rgba(245, 240, 232, 0.18)"
+      stroke-width="3" stroke-linecap="round"
+      />
+
+    <g transform="translate(396 828) scale(0.76 0.76)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(0)">
+    
+    <path d="M -20 -118 L -22 -60 L -23 -6" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -49 -162 L -53 -128" fill="none" stroke="#B2872A" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-53" cy="-128" r="11" fill="#F2C69C"/>
+    <path d="M 20 -118 L 22 -60 L 23 -6" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#D6A73C"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#B2872A" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#F2C69C"/>
+    <path d="M 40 -196 L 48 -160 L 52 -124" fill="none" stroke="#D6A73C" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="52" cy="-124" r="11" fill="#F2C69C"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-306" r="21" fill="#2B211B"/><circle cx="0" cy="-266" r="48.5" fill="#2B211B"/>
+      <circle cx="0" cy="-262" r="46" fill="#F2C69C"/>
+      <path d="M -47 -268 A 47 47 0 0 1 46 -272 C 30 -296 -14 -292 -47 -268 Z" fill="#2B211B"/>
+              <path d="M -46 -272 C -50 -246 -46 -230 -40 -222 C -52 -228 -58 -250 -56 -272 Z" fill="#2B211B"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -12 -250 Q 0 -238 12 -250" fill="none" stroke="#22312C"
+        stroke-width="3.4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(-82 -112) rotate(8)">
+      <rect x="-37" y="-28" width="74" height="56" rx="6" fill="#E8E1D2"/>
+      <rect x="-37" y="-28" width="12" height="56" rx="4" fill="#B2872A"/>
+      <path d="M -13 -12 H 25 M -13 2 H 17"
+        stroke="#B9AF9A" stroke-width="3" stroke-linecap="round"/>
+    </g></g>
+    </g>
+    <g transform="translate(684 828) scale(-0.76 0.76)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(0)">
+    
+    <path d="M -20 -118 L -22 -60 L -23 -6" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -49 -162 L -53 -128" fill="none" stroke="#7A8E82" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-53" cy="-128" r="11" fill="#D9A273"/>
+    <path d="M 20 -118 L 22 -60 L 23 -6" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#93A79B"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#7A8E82" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#D9A273"/>
+    <path d="M 40 -196 L 48 -160 L 52 -124" fill="none" stroke="#93A79B" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="52" cy="-124" r="11" fill="#D9A273"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-266" r="48.5" fill="#1F1915"/>
+      <circle cx="0" cy="-262" r="46" fill="#D9A273"/>
+      <path d="M -47 -266 A 47 47 0 0 1 47 -270 C 30 -292 -8 -286 -26 -272 C -34 -266 -42 -264 -47 -266 Z"
+              fill="#1F1915"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -12 -250 Q 0 -238 12 -250" fill="none" stroke="#22312C"
+        stroke-width="3.4" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(-82 -112) rotate(8)">
+      <rect x="-37" y="-28" width="74" height="56" rx="6" fill="#E8E1D2"/>
+      <rect x="-37" y="-28" width="12" height="56" rx="4" fill="#7A8E82"/>
+      <path d="M -13 -12 H 25 M -13 2 H 17"
+        stroke="#B9AF9A" stroke-width="3" stroke-linecap="round"/>
+    </g></g>
+    </g>
+    <path d="M 516 668 H 564 M 516 692 H 564" stroke="#D2A63C" stroke-width="5"
+      stroke-linecap="round" opacity="0.9"/>
+    <text x="540" y="858" font-family="Jost" font-size="18" font-weight="500"
+    letter-spacing="2.6" fill="#D2A63C" text-anchor="middle">SAME SET · SAME TEACHERS · SAME PAPER</text>
+
+    <text x="84" y="998" font-family="Jost" font-size="23" font-weight="500"
+    letter-spacing="4" fill="#D2A63C" text-anchor="start">SWIPE — HERE IS WHERE THEY FINISH  →</text>
+  </svg>

@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+    <rect width="1080" height="1080" fill="#0A3A2B"/>
+    
+    
+    <g transform="translate(84 88) scale(0.9)">
+    <path d="M 4 4 H 88 V 62 C 88 88 68 100 46 106 C 24 100 4 88 4 62 Z"
+      fill="none" stroke="#D2A63C" stroke-width="4"/>
+    <path d="M 13 13 H 79 V 61 C 79 82 63 92 46 97 C 29 92 13 82 13 61 Z"
+      fill="none" stroke="#D2A63C" stroke-width="2" opacity="0.75"/>
+    <path d="M 26 34 H 66" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 46 30 V 82" stroke="#D2A63C" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 62 42 C 62 33 52 31 45 35 C 37 39 37 50 46 54 C 56 58 57 69 48 73
+             C 41 76 32 74 31 66"
+      fill="none" stroke="#D2A63C" stroke-width="6" stroke-linecap="round"/></g>
+    <text x="190" y="152" font-family="Playfair Display" font-size="34" font-weight="400"
+      letter-spacing="6" fill="#F4EFE6">THE STUDY LAB</text>
+    <text x="996" y="104" font-family="Jost" font-size="22" font-weight="400"
+    letter-spacing="5" fill="#9FB0A6" text-anchor="end">06 / 06</text>
+    <text x="84" y="238" font-family="Jost" font-size="22" font-weight="500"
+    letter-spacing="4.5" fill="#D2A63C" text-anchor="start">RESULTS DAY</text>
+    <text x="84" y="310" font-family="Playfair Display" font-size="58"
+        font-weight="400" fill="#F4EFE6">The gap was never</text>
+<text x="84" y="378" font-family="Playfair Display" font-size="58"
+        font-weight="400" fill="#F4EFE6">about <tspan font-style="italic" fill="#D2A63C">ability</tspan>.</text>
+    <text x="84" y="424" font-family="Jost" font-size="27"
+          font-weight="300" fill="#DCE4DC">It was eight months of teaching, taken in order.</text>
+<text x="84" y="465" font-family="Jost" font-size="27"
+          font-weight="300" fill="#DCE4DC">September is the part you can still choose.</text>
+
+    <rect x="84" y="500" width="912" height="318" rx="28" fill="rgba(245, 240, 232, 0.045)"/>
+    <line x1="124" y1="772" x2="900" y2="772" stroke="rgba(245, 240, 232, 0.18)"
+      stroke-width="3" stroke-linecap="round"
+      />
+
+    <path d="M 234 626 h 34" stroke="rgba(147,167,155,0.65)"
+            stroke-width="4" stroke-linecap="round" opacity="0.5"/><path d="M 208 610 h 28" stroke="rgba(147,167,155,0.65)"
+            stroke-width="4" stroke-linecap="round" opacity="0.37"/>
+    <g transform="translate(330 766) scale(0.66 0.66)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(2)">
+    
+    <path d="M -20 -118 L -38 -66 L -54 -8" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-61" cy="-2" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -54 -164 L -70 -134" fill="none" stroke="#7A8E82" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-70" cy="-134" r="11" fill="#D9A273"/>
+    <path d="M 20 -118 L 38 -66 L 54 -8" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="61" cy="-2" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#93A79B"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#7A8E82" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#D9A273"/>
+    <path d="M 40 -196 L 49 -162 L 53 -128" fill="none" stroke="#93A79B" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="53" cy="-128" r="11" fill="#D9A273"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-266" r="48.5" fill="#1F1915"/>
+      <circle cx="0" cy="-262" r="46" fill="#D9A273"/>
+      <path d="M -47 -266 A 47 47 0 0 1 47 -270 C 30 -292 -8 -286 -26 -272 C -34 -266 -42 -264 -47 -266 Z"
+              fill="#1F1915"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -9 -243 Q 0 -248 9 -243" fill="none" stroke="#22312C"
+        stroke-width="3.2" stroke-linecap="round"/><path d="M -22 -276 L -8 -276 M 22 -276 L 8 -276" stroke="#22312C"
+        stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <g transform="translate(82 -112) rotate(-8)">
+      <rect x="-37" y="-28" width="74" height="56" rx="6" fill="#E8E1D2"/>
+      <rect x="-37" y="-28" width="12" height="56" rx="4" fill="#7A8E82"/>
+      <path d="M -13 -12 H 25 M -13 2 H 17"
+        stroke="#B9AF9A" stroke-width="3" stroke-linecap="round"/>
+    </g></g>
+    </g>
+    <g>
+      <line x1="726" y1="772" x2="726" y2="526" stroke="#D2A63C" stroke-width="3"
+        stroke-dasharray="10 10" opacity="0.75"/>
+      <path d="M 726 526 h 62 l -14 20 l 14 20 h -62 z" fill="#D6A73C"/>
+    </g>
+    <g transform="translate(800 766) scale(0.66 0.66)">
+      <ellipse cx="0" cy="6" rx="56" ry="11" fill="rgba(0, 0, 0, 0.22)"/>
+      <g transform="rotate(0)">
+    
+    <path d="M -20 -118 L -30 -62 L -38 -6" fill="none" stroke="#274C41" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="-45" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <path d="M -40 -196 L -60 -222 L -70 -296" fill="none" stroke="#B2872A" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-70" cy="-296" r="11" fill="#F2C69C"/>
+    <path d="M 20 -118 L 22 -60 L 23 -6" fill="none" stroke="#2F5A4D" stroke-width="25"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="30" cy="0" rx="18" ry="9" fill="#1B322B"/>
+    <rect x="-40" y="-224" width="80" height="106" rx="34" fill="#D6A73C"/>
+    <path d="M -22 -224 Q 0 -206 22 -224" fill="#B2872A" opacity="0.55"/>
+    <rect x="-13" y="-238" width="26" height="26" rx="8" fill="#F2C69C"/>
+    <path d="M 40 -196 L 60 -222 L 70 -296" fill="none" stroke="#D6A73C" stroke-width="21"
+        stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="70" cy="-296" r="11" fill="#F2C69C"/>
+    <g transform="translate(0 0) rotate(0 0 -240)">
+      <circle cx="0" cy="-306" r="21" fill="#2B211B"/><circle cx="0" cy="-266" r="48.5" fill="#2B211B"/>
+      <circle cx="0" cy="-262" r="46" fill="#F2C69C"/>
+      <path d="M -47 -268 A 47 47 0 0 1 46 -272 C 30 -296 -14 -292 -47 -268 Z" fill="#2B211B"/>
+              <path d="M -46 -272 C -50 -246 -46 -230 -40 -222 C -52 -228 -58 -250 -56 -272 Z" fill="#2B211B"/>
+      <circle cx="-15" cy="-268" r="4.6" fill="#22312C"/><circle cx="15" cy="-268" r="4.6" fill="#22312C"/><path d="M -12 -250 Q 0 -238 12 -250" fill="none" stroke="#22312C"
+        stroke-width="3.4" stroke-linecap="round"/>
+    </g>
+    </g>
+    </g>
+    <text x="330" y="802" font-family="Jost" font-size="18" font-weight="500"
+    letter-spacing="2.6" fill="#9FB0A6" text-anchor="middle">STARTED LATER</text>
+    <text x="800" y="802" font-family="Jost" font-size="18" font-weight="500"
+    letter-spacing="2.6" fill="#D2A63C" text-anchor="middle">STARTED IN SEPTEMBER</text>
+
+    <line x1="84" y1="852" x2="996" y2="852" stroke="#D2A63C"
+    stroke-width="2" opacity="0.9"/><circle cx="156" cy="852" r="15" fill="#D2A63C"
+      stroke="#D2A63C" stroke-width="0"/>
+<circle cx="430" cy="852" r="15" fill="#D2A63C"
+      stroke="#D2A63C" stroke-width="0"/>
+<circle cx="704" cy="852" r="15" fill="#D2A63C"
+      stroke="#D2A63C" stroke-width="0"/>
+<circle cx="960" cy="852" r="15" fill="#D2A63C"
+      stroke="#D2A63C" stroke-width="0"/><text x="84" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">SEP</text>
+<text x="353" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">NOV</text>
+<text x="630" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="start">SPRING</text>
+<text x="996" y="902" font-family="Jost" font-size="21" font-weight="500"
+    letter-spacing="4.5" fill="#9FB0A6" text-anchor="end">MAY</text>
+    
+    <line x1="84" y1="944" x2="996" y2="944" stroke="rgba(159, 176, 166, 0.28)" stroke-width="1.5"/>
+    <text x="84" y="998" font-family="Jost" font-size="24" font-weight="300"
+    letter-spacing="0.4" fill="#9FB0A6" text-anchor="start">Places for September — book a consultation</text>
+    <text x="996" y="998" font-family="Jost" font-size="24" font-weight="500"
+    letter-spacing="2.4" fill="#F4EFE6" text-anchor="end">THESTUDYLAB.AE</text>
+  </svg>
