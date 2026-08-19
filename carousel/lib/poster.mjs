@@ -23,9 +23,12 @@ const LAYOUTS = {
     headY: 356,
     headSize: 62,
     headLead: 74,
+    brainX0: 240,
+    brainGap: 300,
     brainY: 736,
     brainScale: 0.85,
     captionY: 936,
+    captionSize: 27,
     bodyY: 1016,
     bodySize: 26,
     bodyLead: 38,
@@ -41,9 +44,12 @@ const LAYOUTS = {
     headY: 262,
     headSize: 54,
     headLead: 64,
+    brainX0: 240,
+    brainGap: 300,
     brainY: 592,
     brainScale: 0.68,
     captionY: 768,
+    captionSize: 24,
     bodyY: 838,
     bodySize: 24,
     bodyLead: 36,
@@ -53,6 +59,29 @@ const LAYOUTS = {
     ],
     creditY: 1008,
   },
+  // 9:16 — fills a phone screen. Content stays between y 480 and 1660 so the
+  // Stories chrome (profile row up top, reply bar below) never covers it.
+  story: {
+    h: 1920,
+    headY: 560,
+    headSize: 68,
+    headLead: 82,
+    brainX0: 210,
+    brainGap: 330,
+    brainY: 990,
+    brainScale: 0.85,
+    captionY: 1206,
+    captionSize: 30,
+    bodyY: 1310,
+    bodySize: 29,
+    bodyLead: 44,
+    bodyLines: [
+      "Reading it once fills a little. Doing it fills more.",
+      "Getting it wrong in front of someone who corrects it",
+      "on the spot is where the rest of it goes in.",
+    ],
+    creditY: 1640,
+  },
 };
 
 export function renderPoster(format = "portrait") {
@@ -60,7 +89,7 @@ export function renderPoster(format = "portrait") {
   const cx = W / 2;
 
   const brains = STAGES.map((s, i) => {
-    const x = 240 + i * 300;
+    const x = L.brainX0 + i * L.brainGap;
     return `
       ${brain({
         x,
@@ -75,7 +104,7 @@ export function renderPoster(format = "portrait") {
       ${label(s.caption, {
         x,
         y: L.captionY,
-        size: format === "portrait" ? 27 : 24,
+        size: L.captionSize,
         weight: 400,
         track: 0.6,
         fill: s.gold ? t.gold : t.body,

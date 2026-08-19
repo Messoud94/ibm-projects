@@ -27,6 +27,8 @@ action; just a small `THE STUDY LAB` credit at the foot of the page. The brains 
 drawn from scratch in `lib/brain.mjs` (a mirrored hemisphere path, filled by
 clipping colour to the silhouette), so nothing is traced.
 
+- `poster-learning-story_1080x1920.png` — 9:16, fills a phone screen (Stories/Reels).
+  Content sits between y 480 and 1660 so Instagram's own chrome never covers it.
 - `poster-learning-portrait_1080x1350.png` — the 4:5 page
 - `poster-learning-square_1080x1080.png` — same poster, square for the grid
 
@@ -37,7 +39,8 @@ npm install          # playwright-core (Chromium is already on the box)
 node fetch-fonts.mjs # Playfair Display + Jost from Google Fonts, into ./fonts
 node build.mjs       # all six slides + a contact sheet, into ./out
 node build.mjs 3 4   # re-render a subset while iterating
-node build-poster.mjs # both poster crops
+node build-poster.mjs # all three poster crops
+node build-poster.mjs story # just the full-screen one
 ```
 
 Output lands in `out/` as `cardN_1080x1080.png` (the deliverable), the matching
