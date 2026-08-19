@@ -19,11 +19,11 @@
     <text x="84" y="238" font-family="Jost" font-size="22" font-weight="500"
     letter-spacing="4.5" fill="#D2A63C" text-anchor="start">THE SAME YEAR, TWICE</text>
     <text x="84" y="316" font-family="Playfair Display" font-size="62"
-        font-weight="400" fill="#F4EFE6">Two students. The</text>
+        font-weight="400" fill="#F4EFE6" text-anchor="start">Two students. The</text>
 <text x="84" y="390" font-family="Playfair Display" font-size="62"
-        font-weight="400" fill="#F4EFE6">same <tspan font-style="italic" fill="#D2A63C">ability</tspan>.</text>
+        font-weight="400" fill="#F4EFE6" text-anchor="start">same <tspan font-style="italic" fill="#D2A63C">ability</tspan>.</text>
     <text x="84" y="448" font-family="Jost" font-size="27"
-          font-weight="300" fill="#DCE4DC">One of them started in September.</text>
+          font-weight="300" fill="#DCE4DC" text-anchor="start">One of them started in September.</text>
 
     <rect x="84" y="500" width="912" height="392" rx="28" fill="rgba(245, 240, 232, 0.045)"/>
     <line x1="144" y1="834" x2="936" y2="834" stroke="rgba(245, 240, 232, 0.18)"

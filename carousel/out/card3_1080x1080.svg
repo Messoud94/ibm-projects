@@ -19,15 +19,15 @@
     <text x="84" y="256" font-family="Jost" font-size="22" font-weight="500"
     letter-spacing="4.5" fill="#B08A22" text-anchor="start">BY NOVEMBER</text>
     <text x="84" y="326" font-family="Playfair Display" font-size="50"
-        font-weight="400" fill="#14140F">One is ahead of the</text>
+        font-weight="400" fill="#14140F" text-anchor="start">One is ahead of the</text>
 <text x="84" y="386" font-family="Playfair Display" font-size="50"
-        font-weight="400" fill="#14140F">specification. One is where</text>
+        font-weight="400" fill="#14140F" text-anchor="start">specification. One is where</text>
 <text x="84" y="446" font-family="Playfair Display" font-size="50"
-        font-weight="400" fill="#14140F">the term left them.</text>
+        font-weight="400" fill="#14140F" text-anchor="start">the term left them.</text>
     <text x="84" y="502" font-family="Jost" font-size="25"
-          font-weight="300" fill="#4A4A45">Eight weeks of teaching in a planned order, against</text>
+          font-weight="300" fill="#4A4A45" text-anchor="start">Eight weeks of teaching in a planned order, against</text>
 <text x="84" y="538" font-family="Jost" font-size="25"
-          font-weight="300" fill="#4A4A45">eight weeks of whatever came home that week.</text>
+          font-weight="300" fill="#4A4A45" text-anchor="start">eight weeks of whatever came home that week.</text>
 
     <rect x="84" y="566" width="912" height="252" rx="28" fill="rgba(10, 58, 43, 0.035)"/>
     <line x1="124" y1="772" x2="956" y2="772" stroke="rgba(20, 20, 15, 0.14)"

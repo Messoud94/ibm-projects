@@ -19,15 +19,15 @@
     <text x="84" y="256" font-family="Jost" font-size="22" font-weight="500"
     letter-spacing="4.5" fill="#B08A22" text-anchor="start">BY SPRING</text>
     <text x="84" y="330" font-family="Playfair Display" font-size="52"
-        font-weight="400" fill="#14140F">One is <tspan font-style="italic" fill="#B08A22">choosing</tspan> Higher.</text>
+        font-weight="400" fill="#14140F" text-anchor="start">One is <tspan font-style="italic" fill="#B08A22">choosing</tspan> Higher.</text>
 <text x="84" y="392" font-family="Playfair Display" font-size="52"
-        font-weight="400" fill="#14140F">One is being placed.</text>
+        font-weight="400" fill="#14140F" text-anchor="start">One is being placed.</text>
     <text x="84" y="458" font-family="Jost" font-size="25"
-          font-weight="300" fill="#4A4A45">Schools decide tier entry on the evidence in front of</text>
+          font-weight="300" fill="#4A4A45" text-anchor="start">Schools decide tier entry on the evidence in front of</text>
 <text x="84" y="494" font-family="Jost" font-size="25"
-          font-weight="300" fill="#4A4A45">them. By then one of these students has built a case,</text>
+          font-weight="300" fill="#4A4A45" text-anchor="start">them. By then one of these students has built a case,</text>
 <text x="84" y="530" font-family="Jost" font-size="25"
-          font-weight="300" fill="#4A4A45">and the other has a set of autumn marks.</text>
+          font-weight="300" fill="#4A4A45" text-anchor="start">and the other has a set of autumn marks.</text>
 
     <rect x="84" y="566" width="912" height="252" rx="28" fill="rgba(10, 58, 43, 0.035)"/>
     <line x1="124" y1="772" x2="956" y2="772" stroke="rgba(20, 20, 15, 0.14)"

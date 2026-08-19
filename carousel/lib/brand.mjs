@@ -49,12 +49,12 @@ export function label(text, { x, y, size = 22, fill, weight = 500, track = 4.5, 
 }
 
 /** Body copy: array of pre-broken lines. */
-export function copy(lines, { x, y, size = 27, lead = 41, fill, weight = 300 }) {
+export function copy(lines, { x, y, size = 27, lead = 41, fill, weight = 300, anchor = "start" }) {
   return lines
     .map(
       (l, i) =>
         `<text x="${x}" y="${y + i * lead}" font-family="${SANS}" font-size="${size}"
-          font-weight="${weight}" fill="${fill}">${esc(l)}</text>`,
+          font-weight="${weight}" fill="${fill}" text-anchor="${anchor}">${esc(l)}</text>`,
     )
     .join("\n");
 }
@@ -63,7 +63,7 @@ export function copy(lines, { x, y, size = 27, lead = 41, fill, weight = 300 }) 
  * Serif headline. Each line is a string or an array of runs:
  * ["One is ", {t:"choosing", italic:true, gold:true}, " Higher."]
  */
-export function headline(lines, { x, y, size = 58, lead = 68, fill, gold }) {
+export function headline(lines, { x, y, size = 58, lead = 68, fill, gold, anchor = "start" }) {
   return lines
     .map((line, i) => {
       const runs = Array.isArray(line) ? line : [line];
@@ -76,7 +76,7 @@ export function headline(lines, { x, y, size = 58, lead = 68, fill, gold }) {
         })
         .join("");
       return `<text x="${x}" y="${y + i * lead}" font-family="${SERIF}" font-size="${size}"
-        font-weight="400" fill="${fill}">${spans}</text>`;
+        font-weight="400" fill="${fill}" text-anchor="${anchor}">${spans}</text>`;
     })
     .join("\n");
 }
