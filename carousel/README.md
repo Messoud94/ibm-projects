@@ -18,21 +18,17 @@ Slides 1, 2, 5 and 6 are deep green; 3 and 4 are cream, matching the source card
 Slide 6 did not exist in the source set and was written to close the story with the
 September call to action.
 
-## Single-image ad
+## Poster
 
-`build-ad.mjs` renders a standalone feed ad built on the same brand kit: three
-brains filled by how much of the lesson actually stays — a little from theory,
-more from practice, all of it from mistakes you were allowed to make in front of
-a teacher. The brains are drawn from scratch in `lib/brain.mjs` (a mirrored
-hemisphere path, filled by clipping colour to the silhouette), so nothing is
-traced and no third-party mark appears on the artwork.
+`build-poster.mjs` renders a standalone poster on the same brand kit: three brains
+filled by how much of a lesson actually stays — a little from theory, more from
+practice, all of it from mistakes corrected on the spot. No mark and no call to
+action; just a small `THE STUDY LAB` credit at the foot of the page. The brains are
+drawn from scratch in `lib/brain.mjs` (a mirrored hemisphere path, filled by
+clipping colour to the silhouette), so nothing is traced.
 
-- `ad-learning-portrait_1080x1350.png` — the 4:5 feed size to actually run
-- `ad-learning-square_1080x1080.png` — same message, square for the grid
-
-Suggested caption: *Reading the chapter feels like progress. It isn't, not much.
-The marks move when a student gets it wrong on Tuesday and has it corrected on
-Tuesday — not in May. September places are open. Link in bio.*
+- `poster-learning-portrait_1080x1350.png` — the 4:5 page
+- `poster-learning-square_1080x1080.png` — same poster, square for the grid
 
 ## Rendering
 
@@ -41,7 +37,7 @@ npm install          # playwright-core (Chromium is already on the box)
 node fetch-fonts.mjs # Playfair Display + Jost from Google Fonts, into ./fonts
 node build.mjs       # all six slides + a contact sheet, into ./out
 node build.mjs 3 4   # re-render a subset while iterating
-node build-ad.mjs    # both ad crops
+node build-poster.mjs # both poster crops
 ```
 
 Output lands in `out/` as `cardN_1080x1080.png` (the deliverable), the matching
@@ -67,10 +63,10 @@ Everything is SVG on a shared grid, so slides stay aligned with each other:
 - `lib/characters.mjs` — the two-student rig (poses, expressions) and the props
   (books, papers, tier cards, clock, ribbon)
 - `lib/slides.mjs` — copy and composition for each of the six slides
-- `lib/brain.mjs` — the fillable brain used by the ad
-- `lib/ad.mjs` — copy and layout for the single-image ad, in both crops
+- `lib/brain.mjs` — the fillable brain used by the poster
+- `lib/poster.mjs` — copy and layout for the poster, in both crops
 - `lib/render.mjs` — font embedding and headless-Chromium screenshots
-- `build.mjs` / `build-ad.mjs` — render SVG → PNG
+- `build.mjs` / `build-poster.mjs` — render SVG → PNG
 - `fetch-fonts.mjs` — downloads the two typefaces (not committed)
 
 ## Editing
