@@ -2,11 +2,9 @@
       viewBox="0 0 1080 1350">
     <rect width="1080" height="1350" fill="#0A3A2B"/>
 
-    <text x="540" y="302" font-family="Jost" font-size="21" font-weight="500"
-    letter-spacing="4.5" fill="#D2A63C" text-anchor="middle">HOW MUCH ACTUALLY STICKS</text>
-    <text x="540" y="392" font-family="Playfair Display" font-size="62"
+    <text x="540" y="356" font-family="Playfair Display" font-size="62"
         font-weight="400" fill="#F4EFE6" text-anchor="middle">Nobody learns it</text>
-<text x="540" y="466" font-family="Playfair Display" font-size="62"
+<text x="540" y="430" font-family="Playfair Display" font-size="62"
         font-weight="400" fill="#F4EFE6" text-anchor="middle">by <tspan font-style="italic" fill="#D2A63C">reading</tspan> it once.</text>
 
     

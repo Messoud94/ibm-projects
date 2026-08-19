@@ -20,8 +20,7 @@ const STAGES = [
 const LAYOUTS = {
   portrait: {
     h: 1350,
-    eyebrowY: 302,
-    headY: 392,
+    headY: 356,
     headSize: 62,
     headLead: 74,
     brainY: 736,
@@ -39,8 +38,7 @@ const LAYOUTS = {
   },
   square: {
     h: 1080,
-    eyebrowY: 214,
-    headY: 292,
+    headY: 262,
     headSize: 54,
     headLead: 64,
     brainY: 592,
@@ -89,13 +87,6 @@ export function renderPoster(format = "portrait") {
       viewBox="0 0 ${W} ${L.h}">
     <rect width="${W}" height="${L.h}" fill="${t.bg}"/>
 
-    ${label("HOW MUCH ACTUALLY STICKS", {
-      x: cx,
-      y: L.eyebrowY,
-      size: 21,
-      fill: t.gold,
-      anchor: "middle",
-    })}
     ${headline(
       ["Nobody learns it", ["by ", { t: "reading", italic: true, gold: true }, " it once."]],
       {
